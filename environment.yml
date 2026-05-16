@@ -1,0 +1,10 @@
+name: cv
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - opencv
+  - pip
+  - pip:
+      - mss
